@@ -34,6 +34,7 @@
     @{Html.RenderAction("GenreMenu", "Store");}
     <div id="main">
         @RenderBody()
+        @RenderSection("Scripts",false)
     </div>
     <div id="footer">
         built with <a href="http://asp.net/mvc">ASP.NET MVC 3</a>
