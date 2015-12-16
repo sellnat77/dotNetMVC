@@ -1,2 +1,2 @@
 # dotNetMVC
-MVC Group Project
+MVC Group Project With continuous integration
